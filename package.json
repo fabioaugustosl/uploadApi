@@ -1,0 +1,30 @@
+{
+  "name": "uploadapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Fabio Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "connect-busboy": "0.0.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.1",
+    "express-session": "^1.15.1",
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "md5": "^2.2.1",
+    "moment": "^2.17.1",
+    "mongoose": "^4.8.2",
+    "s3-uploader": "^2.0.3",
+    "ssl-root-cas": "^1.2.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-install": "^0.6.0",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.4",
+    "jshint-stylish": "^2.2.1"
+  }
+}
